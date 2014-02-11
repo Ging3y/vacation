@@ -1,0 +1,31 @@
+body {
+	background-color: #00D8FF;
+	}
+
+h1 {
+	color: #FFFFFF;
+	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
+	font-size: 80px;
+	}
+	
+h2 {
+	color: #FFFFFF;
+	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
+	font-size: 45px;
+	}
+
+
+	
+	
+a:link {
+	color: #0C8CE8;
+	}
+a:visited {
+	color: #0C8CE8;
+	}
+a:hover {
+	color: #0DFF9E;
+	}
+a:active {
+	color: #0DFF9E;
+	}
