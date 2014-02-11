@@ -1,11 +1,25 @@
 body {
 	background-color: #00D8FF;
 	}
+	
+div.Header_Image {
+	position: relative;
+	width: 100%;
+	}
+
+div.Main_Content {
+	margin-left: 30px;
+	margin-right: auto;
+	}
 
 h1 {
 	color: #FFFFFF;
 	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
 	font-size: 80px;
+	position: absolute;
+	top: 180px;
+	left: 0;
+	width: 100%;
 	}
 	
 h2 {
@@ -13,9 +27,6 @@ h2 {
 	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
 	font-size: 45px;
 	}
-
-
-	
 	
 a:link {
 	color: #0C8CE8;
