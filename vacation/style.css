@@ -1,8 +1,10 @@
 body {
-	background-color: green;
+	background-color: #09E8DD;
 	}
 
 h1 {
-	color: red;
+	color: #FFFFFF;
+	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
+	font-size: 80px;
 	}
 	
