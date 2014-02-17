@@ -3,13 +3,24 @@ body {
 	}
 	
 div.Header_Image {
-	position: relative;
-	width: 100%;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
 	}
 
 div.Main_Content {
 	margin-left: 30px;
 	margin-right: auto;
+	}
+
+div.Navbar {
+	color: white;
+	margin-top: 45px;
+	margin-bottom: 45px;
+	text-align: center;
+	background-color: #4577D4;
+	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
+	font-size: 24px;
 	}
 
 h1 {
@@ -29,10 +40,11 @@ h2 {
 	}
 	
 a:link {
-	color: #0C8CE8;
+	color: #FFFFFF;
+	text-decoration: none;
 	}
 a:visited {
-	color: #0C8CE8;
+	color: #FFFFFF;
 	}
 a:hover {
 	color: #0DFF9E;
