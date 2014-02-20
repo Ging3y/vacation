@@ -23,6 +23,11 @@ div.Navbar {
 	font-size: 24px;
 	}
 
+div.Image_frontpage {
+	float: left;
+	margin-right: 30px;
+	}
+
 h1 {
 	color: #FFFFFF;
 	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
