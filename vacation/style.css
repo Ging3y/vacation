@@ -52,6 +52,14 @@ p {
 	text-indent: 30px;
 	}
 	
+ul {
+	font-family: "Segoe UI Light", "Comic Sans MS", Calibri;
+	font-size: 15px;
+	line-height: 170%;
+	color:white;
+	text-indent: 30px;
+	}
+	
 
 	
 a:link {
